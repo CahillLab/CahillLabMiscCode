@@ -1,0 +1,1 @@
+This is the basic repository for miscellaneous code that the Cahill Lab at the Unversity of Alberta uses. If you are a member of the lab, feel free to contact JC or Isaac to get access to this repo. If you have a self-contained codebase that deserves its own repository on this account, let JC or Isaac know and we can get you setup with a new repo. 
